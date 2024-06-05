@@ -20,7 +20,7 @@ itsdangerous==2.0.1
 Jinja2==3.0.1
 kombu==5.1.0
 Markdown==3.3.4
-MarkupSafe==2.0.1
+MarkupSafe==2.1.1
 numpy==1.22.0
 prompt-toolkit==3.0.19
 psycopg2==2.9.1
